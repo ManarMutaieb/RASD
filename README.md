@@ -6,6 +6,12 @@
 
 ![RASD_System_Poster](https://github.com/ManarMutaieb/RASD/blob/main/RASD_System_Poster.png)
 
+# Team Memebers
+- [Ghadeer Almaymoon](https://github.com/ghadeerAbdulmajeed)
+- [Sarah Alosaimi](https://github.com/SarahAlosaimi)
+- [Manar Mutaieb](https://github.com/ManarMutaieb)
+- [Dhai ALMurshed](https://github.com/Dhaialmurshed)
+
 # Technology and tools used In the project
 The technology and tools utilized in this project include the Flutter framework and Dart programming language for building the application, as well as Firebase for cloud storage and database. Visual Studio Code and the emulator provided by Android Studio were employed for development purposes. In addition, the model was built using the Python programming language on Google Colab and subsequently deployed on the Heroku server.
 
