@@ -5,6 +5,7 @@
 
 # About this project
 "RASD" is a mobile application that has been developed to detect traffic violations with the help of a driver's dashcam. The app is designed to generate a readymade report that can be used to report the violation to the authorities. The application supports both English and Arabic languages to cater to a wider audience. With the help of the app, drivers can easily report any violations they witness on the road, which in turn can help in making the roads safer.
+![RASD_System_Poster](https://github.com/ManarMutaieb/RASD/blob/main/RASD_System_Poster.png)
 
 # Technology and tools used In the project
 The technology and tools utilized in this project include the Flutter framework and Dart programming language for building the application, as well as Firebase for cloud storage and database. Visual Studio Code and the emulator provided by Android Studio were employed for development purposes. In addition, the model was built using the Python programming language on Google Colab and subsequently deployed on the Heroku server.
