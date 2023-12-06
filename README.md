@@ -5,6 +5,8 @@
 
 # About this project
 "RASD" is a mobile application that has been developed to detect traffic violations with the help of a driver's dashcam. The app is designed to generate a readymade report that can be used to report the violation to the authorities. The application supports both English and Arabic languages to cater to a wider audience. With the help of the app, drivers can easily report any violations they witness on the road, which in turn can help in making the roads safer.
+
+
 ![RASD_System_Poster](https://github.com/ManarMutaieb/RASD/blob/main/RASD_System_Poster.png)
 
 # Technology and tools used In the project
