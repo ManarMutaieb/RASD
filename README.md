@@ -1,10 +1,11 @@
 # RASD
-![Dashcam (1)](https://user-images.githubusercontent.com/98524329/200344318-1f31874e-ba4c-41f7-9220-156cb5ff183e.png)
+<img width="500" src="https://user-images.githubusercontent.com/98524329/200344318-1f31874e-ba4c-41f7-9220-156cb5ff183e.png">
+
 # About this project
 "RASD" is a mobile application that has been developed to detect traffic violations with the help of a driver's dashcam. The app is designed to generate a readymade report that can be used to report the violation to the authorities. The application supports both English and Arabic languages to cater to a wider audience. With the help of the app, drivers can easily report any violations they witness on the road, which in turn can help in making the roads safer.
 
 
-![RASD_System_Poster](https://github.com/ManarMutaieb/RASD/blob/main/RASD_System_Poster.png)
+<br><img width="750" src="https://github.com/ManarMutaieb/RASD/blob/main/RASD_System_Poster.png" alt="RASD_System_Poster">
 
 # Team Memebers
 - [Ghadeer Almaymoon](https://github.com/ghadeerAbdulmajeed)
@@ -25,6 +26,10 @@ The technology and tools utilized in this project include the Flutter framework 
    <img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
       <img height="40" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
             <img height="40" width="40" src="https://www.herokucdn.com/favicons/favicon.ico">
+
+## Demo
+- [Short Demo](https://drive.google.com/file/d/1WOAYzo2IimzjsOawAfhjzgJNWyRdsqOt/view?usp=sharing)
+- [Functions Demo](https://drive.google.com/file/d/1sHozrHvq7kxgmiZQ2X6FBA_qsd5qCqjW/view?usp=sharing)
 
 ## Resources:
 The attached object detection model and violation detection model were inspired by:
